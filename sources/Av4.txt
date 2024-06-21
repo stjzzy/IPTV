@@ -15,7 +15,7 @@ CCTV11-戏曲,http://113.200.75.119:1688/hls/1012/index.m3u8
 CCTV12-社会与法,http://113.200.75.119:1688/hls/1013/index.m3u8
 CCTV13-新闻,http://113.200.75.119:1688/hls/1014/index.m3u8
 CCTV14-少儿,http://113.200.75.119:1688/hls/1015/index.m3u8
-CCTV15-音乐,http://113.200.75.119:1688/hls/1016/inde200x.m3u8
+CCTV15-音乐,http://113.200.75.119:1688/hls/1016/index.m3u8
 CCTV17-农业,http://113.200.75.119:1688/hls/1017/index.m3u8
 卫视,#genre#
 安徽卫视,http://113.200.75.119:1688/hls/1018/index.m3u8
