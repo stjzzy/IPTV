@@ -4,7 +4,7 @@ CCTV1-综合,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
 CCTV2-财经,http://113.200.75.119:1688/hls/1002/index.m3u8
 CCTV3-综艺,http://113.200.75.119:1688/hls/1003/index.m3u8
 CCTV4-国际,http://113.200.75.119:1688/hls/1004/index.m3u8
-CCTV5-体育,http://113.200.75.19:1688/hls/1005/index.m3u8
+CCTV5-体育,http://113.200.75.119:1688/hls/1005/index.m3u8
 CCTV5+体育赛事,http://113.200.75.119:1688/hls/1006/index.m3u8
 CCTV6-电影,http://113.200.75.119:1688/hls/1007/index.m3u8
 CCTV7-军农,http://113.200.75.119:1688/hls/1008/index.m3u8
