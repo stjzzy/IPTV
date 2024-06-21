@@ -60,7 +60,6 @@ CCTV17-农业,http://113.200.75.119:1688/hls/1017/index.m3u8
 陕西7套,http://113.200.75.119:1688/hls/1057/index.m3u8
 陕西8套,http://113.200.75.119:1688/hls/1058/index.m3u8
 🌏港澳台频道,#genre#
-
 凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯频道,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8?
@@ -138,7 +137,6 @@ CGNTV9,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGNTV10,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGNTV11,https://livedoc.cgtn.com/500d/prog_index.m3u8
 🌏全球频道,#genre#
-
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -254,7 +252,6 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 中国蓝新闻台,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 数码时代频道,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-﻿💃🏿強姦亂倫專卄1�7,#genre#
 💃🏿強姦亂倫專區,#genre#
 被大學問題學生侵犯,https://askzybf.com/20230302/84iQwP98/1000kb/hls/index.m3u8
 地方少子化姦淫,https://askzybf.com/20230227/XAX7WlcX/1000kb/hls/index.m3u8
